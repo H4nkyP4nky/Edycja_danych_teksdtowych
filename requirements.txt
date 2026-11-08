@@ -1,0 +1,6 @@
+requests>=2.31,<3
+streamlit>=1.36,<2
+altair>=5,<7
+pandas>=2,<4
+torch>=2.2,<3
+transformers>=4.44,<5
